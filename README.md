@@ -1,4 +1,4 @@
-# Optimization_algo
+# Machine Learning and Optimization Techniques 
 
 
 This repository contains a collection of ML models, ML model optimization techniques, and root-finding algorithms as part of the ECO4801 course.
