@@ -6,5 +6,5 @@ This repository contains a collection of ML models, ML model optimization techni
 ## Models
 - **Tree-based models** (Ensemble methods: bagging and boosting)
 - **Logistic Regression** (For classification problems)
-- **Convolutional Neural** Networks (For image data)
+- **Convolutional Neural Networks** (For image data)
 
